@@ -1,0 +1,128 @@
+[
+{
+    "product_name": "Flat cylinder EZH",
+    "description": "For the smallest of construction spaces: the single-acting miniature cylinder with rectangular cross-section.",
+    "items": [
+        "Extremely flat design",
+        "Protected against rotation thanks to special piston shape",
+        "Wide variety of mounting and attachment options",
+        "For position sensing"
+    ],
+    "pdf_link": "https://www.festo.com/media/pim/298/D15000100122298.PDF"
+},
+{
+    "product_name": "Compact cylinder, single-acting AEN-S",
+    "description": "Low-cost, space-optimised cylinder with improved running characteristics thanks to precise single-part manufacturing.",
+    "items": [
+        "Minimal installation space",
+        "Very lightweight",
+        "Ideal for small movements",
+        "High forces in a compact size",
+        "Piston rod with female or male thread",
+        "For position sensing"
+    ],
+    "pdf_link": "https://www.festo.com/media/pim/923/D15000100198923.PDF"
+},
+{
+    "product_name": "Compact cylinder CDC",
+    "description": "Very compact ISO cylinder to ISO 21287. Easy-to- clean design and increased corrosion protection. Wide range of variants for specific applications, large range of piston rod options.",
+    "items": [
+        "ISO 21287",
+        "Up to 50% less installation space than comparable standards-based cylinders to ISO 15552",
+        "Easy-to-clean design",
+        "Increased corrosion protection",
+        "Wide range of variants for customised applications",
+        "Piston rod with female or male thread",
+        "For position sensing"
+    ],
+    "pdf_link": "https://www.festo.com/media/pim/827/D15000100121827.PDF"
+},
+{
+    "product_name": "Compact cylinder, single-acting AEN",
+    "description": "ISO cylinder to ISO 21287 with fixed or self-adjusting cushioning.",
+    "items": [
+        "ISO 21287",
+        "Up to 50% less installation space than comparable standards-based cylinders to ISO 15552",
+        "Piston rod with female or male thread",
+        "Wide range of variants for customised applications",
+        "For position sensing"
+    ],
+    "pdf_link": "https://www.festo.com/media/pim/744/D15000100121744.PDF"
+},
+{
+    "product_name": "Compact cylinder ADN-EL",
+    "description": "ISO cylinder to ISO 21287 with fixed cushioning and end-position locking at front, rear or on both sides",
+    "items": [
+        "ISO 21287",
+        "With end-position locking at both ends, front or rear",
+        "Piston rod with female or male thread",
+        "For position sensing"
+    ],
+    "pdf_link": "https://www.festo.com/media/pim/744/D15000100121744.PDF"
+},
+{
+    "product_name": "Flat cylinder, metric DZH",
+    "description": "For high component density with block mounting: double-acting cylinder with adjustable cushioning and protection against torsion with oval piston.",
+    "items": [
+        "Flat design",
+        "Protected against rotation thanks to special piston shape",
+        "Ideal for manifold assembly",
+        "Wide variety of mounting and attachment options",
+        "Piston rod with male thread",
+        "For position sensing"
+    ],
+    "pdf_link": "https://www.festo.com/media/pim/298/D15000100122298.PDF"
+},
+{
+    "product_name": "Flat cylinder, metric DZF",
+    "description": "For high component density with block mounting: double-acting cylinder with adjustable cushioning and protection against torsion with oval piston.",
+    "items": [
+        "Extremely flat design",
+        "Protected against rotation thanks to special piston shape",
+        "Ideal for manifold assembly",
+        "Wide variety of mounting and attachment options",
+        "Piston rod with female or male thread",
+        "For position sensing"
+    ],
+    "pdf_link": "https://www.festo.com/media/pim/298/D15000100122298.PDF"
+},
+{
+    "product_name": "Compact cylinder DPDM",
+    "description": "Compact as it's shorter and lighter and can be screwed on in a variety of ways. With fixed cushioning, a non-rotating or through piston rod, single or double-acting: exactly as you need it.",
+    "items": [
+        "Mounting using through-hole and female thread",
+        "Compact design",
+        "Piston rod variants",
+        "For position sensing",
+        "Sustainable in production thanks to reduced use of materials"
+    ],
+    "pdf_link": "https://www.festo.com/media/pim/558/D15000100140558.PDF"
+},
+{
+    "product_name": "Compact cylinder, double-acting ADN",
+    "description": "ISO cylinder to ISO 21287 with fixed or self-adjusting cushioning with high variance.",
+    "items": [
+        "ISO 21287",
+        "Up to 50% less installation space than comparable standards-based cylinders to ISO 15552",
+        "Piston rod with female or male thread",
+        "Wide range of variants for customised applications",
+        "For position sensing",
+        "Variants recommended for production systems for manufacturing lithium-ion batteries"
+    ],
+    "pdf_link": "https://www.festo.com/media/pim/744/D15000100121744.PDF"
+},
+{
+    "product_name": "Compact cylinder, double-acting ADN-S",
+    "description": "Smaller systems yet better performance. This is a feat compact cylinders ADN-S are capable of. They are extremely small and light and deliver excellent performance with small movements. All thanks to the single-piece, compact housing.",
+    "items": [
+        "Minimal installation space",
+        "Very lightweight",
+        "Ideal for small movements",
+        "Piston rod with female or male thread",
+        "For position sensing",
+        "Variants recommended for production systems for manufacturing lithium-ion batteries",
+        "Sustainable in production thanks to reduced use of materials"
+    ],
+    "pdf_link": "https://www.festo.com/media/pim/539/D15000100140539.PDF"
+}
+]
